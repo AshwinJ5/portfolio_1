@@ -1,0 +1,6 @@
+.mx-3:hover{
+   transform: scale(1.25);
+}
+.rounded-pill:hover{
+     transform: scale(1.1); 
+}
